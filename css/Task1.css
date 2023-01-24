@@ -1,0 +1,170 @@
+.container {
+    max-width: 821px;
+}
+
+
+#left_header {
+    text-align: left ; 
+   color: white ;
+   font-size: 13px;
+   
+   
+  }
+
+.firstHeader {
+    background-color:#42b9fd;
+    color: white;
+   
+}
+
+#main_headline {
+    margin-top: 43px;
+    font-size: 30px;
+    text-align: left;  
+}
+
+.second_title {
+    font-size: 13px;
+    text-align: left; 
+}
+
+h2 {
+    font-size: 13px;
+    
+}
+
+#text {
+    margin-top: 20px;
+    font-size: 11px;
+}
+
+
+.box-container {
+    height: 330px;
+    width: 275px;
+    color: white;
+    right: 330px;
+    background-color: #56baf8;
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 10px;  
+  }
+
+  .title {
+    height: 34px;
+  }
+  .detailsItem {
+    font-size: 15px !important;
+  }
+
+ .btn {
+    background-color: orange;
+    color: white;
+    margin-top:10px;
+ }
+ 
+
+p{
+    font-size: 10px;
+    padding-top: 10px;
+}
+
+.main_headline {
+    margin: 10px;
+   
+}
+.small-header {
+    font-size: 15px;
+}
+
+
+.text-grayish {
+    font-size: 12px;
+    color: gray;
+    /* text-align: left; */
+
+}
+
+
+.fa-user {
+    font-size: 35px;
+    /* text-align: left; */
+    
+}
+
+.fa-gift {
+    font-size:35px;
+    /* text-align: left; */
+}
+
+.fa-thumbs-up {
+    font-size:35px;
+    /* text-align: left; */
+}
+
+.small-header {
+    margin-top: 5px;
+    /* text-align: left; */
+}
+
+
+#first_section {
+    margin-top: 12px;
+    font-size: 30px;
+    color: gray;
+    /* text-align: left; */
+}
+
+
+
+#second_section {
+
+    background-color:#ececec;
+    padding: 30px;
+    text-align: center !important;
+  
+
+}
+
+.image {
+border-radius: 50%;
+border: 1px solid black;
+
+
+}
+
+.smallLine{
+    border-top: 1px solid black;
+    width: 70px;
+   margin: 0 auto;
+}
+
+
+.containair_footer{
+    text-align: center;
+    padding: 5px;
+    font-size: 10px;   
+   
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+     
+}
+
+@media (max-width: 576px) 
+{
+    .small-device-left{
+        text-align: left;
+    }
+
+}
+
+@media (min-width: 576px) 
+{
+    .big-device-center{
+        text-align: center!important;
+    }
+
+}
